@@ -5,7 +5,7 @@
     3. 生成的jar包在nacos\distribution\target目录下  
     4. 解压上面的包，进入bin目录    
     5、单机启动命令:startup.cmd -m standalone
-    6、下图是数据库修改说明        
+    6、找到\distribution\target\nacos-server-2.0.0\nacos\conf下的application.properties。参考下图修改:
 <img src="doc/readme.png" width="100%" height="50%" />
 
 ##以下是阿里原来的readme.md
