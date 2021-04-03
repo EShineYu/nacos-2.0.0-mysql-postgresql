@@ -1,3 +1,9 @@
+# nacos-2.0.0-compatible-postgresql使用方法。
+    ##新建数据库，执行doc下的nacos-postgresql.sql脚本。
+<img src="doc/readme.png" width="100%" syt height="50%" />
+
+##以下是阿里原来的readme.md
+
 
 <img src="doc/Nacos_Logo.png" width="50%" syt height="50%" />
 
@@ -177,4 +183,4 @@ These are only part of the companies using Nacos, for reference only. If you are
 ![明源云](https://img.alicdn.com/tfs/TB1.q14ErrpK1RjSZTEXXcWAVXa-219-219.jpg)
 
 
-# nacos-2.0.0-compatible-postgresql
+
