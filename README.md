@@ -8,7 +8,7 @@
     6、找到\distribution\target\nacos-server-2.0.0\nacos\conf下的application.properties。参考下图修改:
 <img src="doc/readme.png" width="100%" height="50%" />
 
-#以下是阿里原来的readme.md
+# 以下是阿里原来的readme.md
 
 
 <img src="doc/Nacos_Logo.png" width="50%" syt height="50%" />
