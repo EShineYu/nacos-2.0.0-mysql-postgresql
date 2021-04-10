@@ -1,4 +1,4 @@
-# nacos-2.0.0-compatible-postgresql使用方法。
+# nacos-2.0.0-mysql-postgresql使用方法。
     1、新建数据库，执行doc下的nacos-postgresql.sql脚本。
     2、在命令行执行 ：如果是windows不要在power shell上执行  
     mvn -Prelease-nacos -Dmaven.test.skip=true clean install -U 
